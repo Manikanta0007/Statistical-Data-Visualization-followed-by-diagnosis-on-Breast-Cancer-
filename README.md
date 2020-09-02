@@ -1,4 +1,4 @@
-# Statistical Data Visualization followed by diagnosis of Breast Cancer-
+# Statistical Data Visualization followed by diagnosis of Breast Cancer
 
 •	Performed feature selection & feature extraction methods including PCA to find the best features by following EDA.
 
